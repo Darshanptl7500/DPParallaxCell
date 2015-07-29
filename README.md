@@ -2,6 +2,9 @@
 
 This project include example of parallax effect on UITableViewCell with UIImageViews when table view is scrolling.
 
+## Screenshot
+
+![Example](https://raw.githubusercontent.com/Darshanptl7500/DPParallaxCell/master/Screenshot/example.png)
 
 ##How To Use
 
